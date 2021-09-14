@@ -1,0 +1,4 @@
+token = "cloudflare_token"
+zone = "cloudflare_zone_id"
+entry = "cloudflare_entry_id"
+domain = "subdomain"
